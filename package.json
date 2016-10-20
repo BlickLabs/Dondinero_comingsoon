@@ -1,5 +1,5 @@
 {
-  "name": "comingsoon",
+  "name": "dondinero",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BlickLabs/comingsoon_base.git"
+    "url": "git+https://github.com/BlickLabs/Dondinero_comingsoon.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BlickLabs/comingsoon_base/issues"
+    "url": "https://github.com/BlickLabs/Dondinero_comingsoon/issues"
   },
-  "homepage": "https://github.com/BlickLabs/comingsoon_base#readme",
+  "homepage": "https://github.com/BlickLabs/Dondinero_comingsoon#readme",
   "devDependencies": {
     "autoprefixer-stylus": "^0.10.0",
     "grunt": "^1.0.1",
